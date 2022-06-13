@@ -1,0 +1,5 @@
+-Variables: Una variable es aquella que permite guardar un valor en el programa,asignar valores o tambien representar, para crear una variable en JavaScript se utiliza la palabra reservada 'var',por ejemplo: var numero = 1;    
+-Strings: Este tipo de datos siempre se representan entre comillas,por ejemplo: var nombre = "Agustin";
+-Funciones:Las funciones en JavaScript son un conjunto de instrucciones que pueden calcular un valor o realizar una tarea especifica,para esto es necesario tomar un valor de entrada y un valor de salida dentro de la misma,por ejemplo: function cuentas (){} 
+-Declaraciones: Las declaraciones JavaScript se componen de valores, operadores, expresiones, palabras clave y comentarios.
+-Valores booleanos: Los datos booleanos solo poseen dos valores,0 y 1,es decir, verdadero o falso  
