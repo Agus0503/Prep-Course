@@ -1,0 +1,23 @@
+-for: el comando for permite ejercer una accion un numero repetido de veces,se compone de 3 parametros los cuales son, crear una variable, poner un limite, aumentar o decrementar dicha variable,por ejemplo, for( var i = 0; i < 10, i++){}, en este caso hacemos que la variable i se incremente 10 veces.
+-&&: este operador logico se utiliza cuando buscamos que 2 expresiones se cumplan,teniendo funcionamiento AND,viendo una tabla de valores se puede entender de la siguiente manera:
+Input  Output
+00     0
+01     0
+10     0
+11     1
+
+en resumen,para que el operador && se cumpla es necesario que ambas expresiones sean verdaderas(true) ya que si una de ellas no lo es entonces devolvera un false.
+
+-||: este operador logico se utiliza cuando buscamos que al menos 1 expresion sea verdadera(true),por ejemplo
+Input  Output
+00     0
+01     1
+10     1
+11     1
+
+-!: este operador logico sirve para negar un valor,viendolo en tabla seria asi:
+Input  Output
+0     1
+1     0
+
+
