@@ -1,0 +1,11 @@
+ARRAYS:Los arrays son una lista de elementos que declaramos para luego darle su uso,es decir, un orden de elementos los cuales estan ordenados a los que podremos acceder.por ejemplo:
+var array = [];   en este caso estamos definiendo una lista vacia.
+var array = [1 , 2 , 3 , 4];       aca definimos una lista de elementos numericos (1 - 4)
+var array = ["hola" , "como" , "estas"]  aca definimos una lista de strings
+
+tambien podemos colocar tanto strings como numeros en una misma lista y hasta una funcion, siempre que se declare un array se debe utilizar [].
+Si queremos acceder a un elemento de una lista basta con escribir array["posicion del elemento"], y si queremos invocar una funcion dentro de un array, array["posicion de la funcion"]()
+Si queremos saber cuantos elementos tenemos en un array, lo hacemos escribiendo array.length
+Si quiero agregar un elemento a una lista externamente lo puedo hacer de la siguiente manera, lista[0] = 3;
+Otra forma de agregar elementos es con el comando .push,por ejemplo, lista.push("Programa");
+Si quiero eliminar un elemento lo hago utilizando .pop,por ejemplo, lista.pop("Programa");
