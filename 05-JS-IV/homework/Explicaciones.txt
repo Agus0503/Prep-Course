@@ -1,0 +1,22 @@
+-Objetos: Los Objetos tienen cierto parecido con los arrays, solo que en ellos se guarda mucha informacion para 1 elemento por ejemplo.los objetos se declaran de la siguiente manera...
+var objeto = {
+propiedad: valor,
+
+propiedad2: valor2,
+
+.
+.
+.
+}
+ej: var agus = {
+    nombre: "agus",
+    edad: 19   
+}
+
+-Propiedades: Una propiedad es una asociación entre un nombre y un valor, y ese valor puede ser una función.
+
+-Métodos: Los métodos sirven para hacer acciones, modificar propiedades de un objeto, añadir elementos a una lista o quitarlos, transformar un string en un número entero o decimal.
+
+-Bucle for: El bucle for se utiliza para repetir una o más instrucciones un determinado número de veces.Este comando consta de 3 parametros,definir una variable,definir la cantidad de veces que se repite el ciclo,y la actualizacion o itineracion del mismo.
+
+-Notación de puntos vs notación de corchetes: La notación de corchetes permite acceder a las propiedades por nombre almacenado en una variable,la notación de puntos permite acceder a la informacion de un objeto o propiedad.
