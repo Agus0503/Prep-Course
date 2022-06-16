@@ -1,0 +1,15 @@
+-Funciones Callback: Un Callback se puede decir que es un argumento de una funcion que nos permite poder utilizar posteriormente,se pueden llamar en cualquier momento y tambien colocar argumentos dentro de la funcion,por ejemplo:
+function saludar(persona){
+    return "Hola" + persona;
+}
+
+function despedir(persona){
+    return "Adios" + persona;
+}
+
+function saludo(persona, callback){
+    return callback(usuario);
+}
+
+crearSaludo("Agus", saludar);
+crearSaludo("Agus", despedir);
