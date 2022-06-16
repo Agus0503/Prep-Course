@@ -1,0 +1,4 @@
+-Prototype: Es una propiedad que tienen todos los objetos, el cual representa el prototipo de cada objeto.Tambien se pueden modificar dichos objetos.
+Cuando se agrega un método al objeto por medio de prototype, todos los demás objetos lo heredan al instante.
+
+-Constructors: Los constructores sirven para crear e inicializar un objeto creado a partir de una clase. 
